@@ -1,0 +1,27 @@
+.todoitems {
+    display :flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+    align-items: center;
+
+}
+.todoitems-container{
+    display: flex;
+
+}
+.todoitems-text{
+
+    padding: 16px;
+    color: black;
+    font-size: 22px;
+
+}
+.todoitems-cross-icom{
+    cursor:pointer;
+    padding-right: 25px;
+
+}
+.line-through{
+    text-decoration: line-through soled rgb(95,93,93) 3px;
+    
+}
